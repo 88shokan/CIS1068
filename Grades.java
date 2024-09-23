@@ -1,5 +1,7 @@
+//Billy Phan
+//CIS1068
+//Grade Calculator
 package grades;
-
 import java.util.Scanner;
 public class Grades {
 
