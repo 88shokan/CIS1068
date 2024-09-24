@@ -4,7 +4,7 @@
 //Takes user input for homework and exam 1 grades to get exam 2 grades to calculate course average.
 
 package grades;
-import java.util.Scanner;
+import java.util.*;
 public class Grades {
 
 	public static void main(String[] args) {
